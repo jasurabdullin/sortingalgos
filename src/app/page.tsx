@@ -81,7 +81,7 @@ export default function Home() {
                 </span>
                 <a
                   className="text-xs flex text-purple-400"
-                  href="https://github.com/jasurabdullin"
+                  href="https://github.com/jasurabdullin/sortingalgos"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
